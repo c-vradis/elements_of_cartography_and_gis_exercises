@@ -6,6 +6,8 @@
 
 To συμπιεσμένο αρχείο zip με τα απαραίτητα δεδομένα μπορείτε να το κατεβάσετε από τον παρακάτω σύνδεσμο:
 
+https://github.com/c-vradis/elements_of_cartography_and_gis_exercises/archive/refs/heads/main.zip 
+
 Σε αυτό το συμπιεσμένο αρχείο περιέχονται 3 shapefiles, τα οποία είναι τα εξής:
 
 - οι θέσεις και ο αριθμός των κρουσμάτων (Cholera_Deaths.shp)
